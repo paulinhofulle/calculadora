@@ -1,0 +1,13 @@
+.tela{
+    width: 205px;
+}
+
+.div{
+    width: 250px;
+    border:solid;
+    border-width: 1px;
+}
+
+.botao{
+    width: 50px;
+}
