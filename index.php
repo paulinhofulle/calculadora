@@ -13,7 +13,7 @@
 <body>
     <form method="POST">
         <div class="div">
-            <input type="text" class="tela" disabled="">
+            <input type="text" class="tela" value="<?= process::exibeVisor()?>" name="tela">
             <br>
             <button type="submit" class="botao" value="1" name="valor">1</button>
             <button type="submit" class="botao" value="2" name="valor">2</button>
