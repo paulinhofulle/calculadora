@@ -1,6 +1,5 @@
 <?php 
     require_once('./processamento/process.php');
-    require_once './processamento/EnumCalculator.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
