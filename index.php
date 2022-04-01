@@ -42,7 +42,6 @@
             <button type="submit" class="botao" value="-" name="operador">-</button>
             <button type="submit" class="botao" value="total" name="total">=</button>
         </div>
-
     </form>
 </body>
 </html>
